@@ -11,11 +11,8 @@ SINCRONIZACIÓN Y ADMINISTRACIÓN DE PROCESOS EN LOS SISTEMAS DISTRIBUIDOS
 ADMINISTRACIóN DE ARCHIVOS Y MEMORIA COMPARTIDA EN LOS SISTEMAS DISTRIBUIDOS
 FIABILIDAD Y CIFRADO EN LOS SISTEMAS DISTRIBUIDOS
 
----
-title: "Trabajo colaborativo de Julio Villacis"
-date: 2020-05-12T10:57:00-05:00
-draft: true
----
+
+Trabajo colaborativo de Julio Villacis
 
 Introduccion y comunicacion en los sitemas distribuidos
 
