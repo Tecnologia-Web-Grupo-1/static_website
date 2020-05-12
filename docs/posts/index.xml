@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>Mi primer Post</title>
       <link>http://Tecnologia-Web-Grupo-1.github.io/static_website/posts/my-first-post/</link>
       <pubDate>Tue, 12 May 2020 10:21:52 -0500</pubDate>
       
       <guid>http://Tecnologia-Web-Grupo-1.github.io/static_website/posts/my-first-post/</guid>
-      <description></description>
+      <description>Estructura de la materia sistemas distribuidos || INTRODUCCIÓN Y COMUNICACIÓN EN LOS SISTEMAS DISTRIBUIDOS SINCRONIZACIÓN Y ADMINISTRACIÓN DE PROCESOS EN LOS SISTEMAS DISTRIBUIDOS ADMINISTRACIóN DE ARCHIVOS Y MEMORIA COMPARTIDA EN LOS SISTEMAS DISTRIBUIDOS FIABILIDAD Y CIFRADO EN LOS SISTEMAS DISTRIBUIDOS</description>
     </item>
     
   </channel>
