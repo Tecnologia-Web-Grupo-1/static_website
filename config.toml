@@ -1,0 +1,5 @@
+baseURL = "http://Tecnologia-Web-Grupo-1.github.io/static_website/"
+languageCode = "en-us"
+title = "My New Hugo Site with company Tecnologia Web Grupo 1"
+publishDir = "docs"
+theme = "ananke"
