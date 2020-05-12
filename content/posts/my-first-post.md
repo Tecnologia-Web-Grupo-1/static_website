@@ -26,15 +26,7 @@ Introduccion y comunicacion en los sitemas distribuidos
   1. Analiza las principales ventajas y desventajas de los Sistemas distribuidos
   2. Evalua los diferentes tipos de comunicacion en los sitemas distribuidos 
 
-1. La Computación Obicua se podría definir como: “la posibilidad de conectar todo lo que hay en el mundo a Internet, para proporcionar información acerca de cualquier cosa, en cualquier momento, en cualquier sitio”.Surge como una extensión de los Sistemas Distribuidos y de la Computación Móvil, aportando cuatro nuevos conceptos: Uso eficaz de espacios "perspicaces" (cuando varios de estos dispositivos coinciden en el mismo espacio físico e interactúan colaborativamente para dar soporte a los individuos que se encuentren en él),Invisibilidad (completa desaparición de la tecnología de la conciencia del usuario),Escalabilidad local(los usuarios disponen de capacidades asociadas al contexto en el que se encuentran).
 
-2. La Computación Pervasiva (ampliamente difundida) es un término que le ha acuñado la industria a la Computación Ubicua; alejándose un poco del marco teórico e idealista de ésta (tecnología discreta basada en la persona).
-
--------------------------------------------------
-
-3.- Prueba Hugo
-
-Colaboracion Karen Segura S
 
 Nuevo Trbajo de Julio Villacis 13:11
 
@@ -44,3 +36,13 @@ Nuevo Trbajo de Julio Villacis 13:11
 2. No beber en exceso
 3. No lavar las frutas con cloro
 4. No usar trajes plasticos
+
+
+Variantes de los Sistemas Distribuidos.
+--------------------------------------------------------------
+1. La Computaciã“n Obicua se podria definir como: “la posibilidad de conectar todo lo que hay en el mundo a Internet, para proporcionar informaciã“n acerca de cualquier cosa, en cualquier momento, en cualquier sitio”.Surge como una extensiã“n de los Sistemas Distribuidos y de la Computaciã“n Móvil, aportando cuatro nuevos conceptos: Uso eficaz de espacios "perspicaces" (cuando varios de estos dispositivos coinciden en el mismo espacio fisico e interactuan colaborativamente para dar soporte a los individuos que se encuentren en el),Invisibilidad (completa desapariciã“n de la tecnologia de la conciencia del usuario),Escalabilidad local(los usuarios disponen de capacidades asociadas al contexto en el que se encuentran).
+
+2. La Computaciã“n Pervasiva (ampliamente difundida) es un termino que le ha acuñado la industria a la Computaciã“n Ubicua; alejandose un poco del marco teã“rico e idealista de esta (tecnologia discreta basada en la persona).
+--------------------------------------------------------------
+
+Colaboracion Karen Segura S
