@@ -24,6 +24,7 @@ Variantes de los Sistemas Distribuidos JVI.
 
 2. La Computación Pervasiva (ampliamente difundida) es un termino que le ha acuñado la industria a la Computación Ubicua; alejandose un poco del marco teórico e idealista de esta (tecnologia discreta basada en la persona).
 
+Colaboracion Karen Segura S 12 mayo 2020
 
 Nuevo Trbajo de Julio Villacis 13:11
 
