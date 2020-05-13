@@ -48,20 +48,24 @@ Variantes de los Sistemas Distribuidos.
 Colaboracion Karen Segura S
 ---------------------------------------------------------------------
 
+
+
+
+*****
 Colaboración Jean Tapia
 
 Razones para tener una web en tu negocio
 Se podrían citar numerosas razones por las que es necesario que un negocio tenga una web. De todas ellas MediaRoom Solutions se decanta por las siguientes:
 
-1º Tener presencia en internet: El motivo principal para tener una página web es poder acceder al mundo online. Para un negocio, disponer de una web permite transmitir su propuesta de valor a un público más amplio y diverso. De esta forma amplia,su cuota de mercado y llegar a más potenciales clientes.
+1.- Tener presencia en internet: El motivo principal para tener una página web es poder acceder al mundo online. Para un negocio, disponer de una web permite transmitir su propuesta de valor a un público más amplio y diverso. De esta forma amplia,su cuota de mercado y llegar a más potenciales clientes.
 
-2º Mayor profesionalidad y confianza: Una empresa con una página web será vista como un negocio serio y profesional por los clientes. Una página web atractiva y agradable será el canal perfecto para exponer los productos y servicios de un negocio.
+2.- Mayor profesionalidad y confianza: Una empresa con una página web será vista como un negocio serio y profesional por los clientes. Una página web atractiva y agradable será el canal perfecto para exponer los productos y servicios de un negocio.
 
-3º Poder definir minuciosamente el público objetivo: Actualmente existen numerosas herramientas que permiten obtener métricas como datos demográficos o las páginas  más visitadas. De esta forma las empresas pueden construir un perfil de cliente ideal y hacer campañas de marketing más optimizadas.
+3.- Poder definir minuciosamente el público objetivo: Actualmente existen numerosas herramientas que permiten obtener métricas como datos demográficos o las páginas  más visitadas. De esta forma las empresas pueden construir un perfil de cliente ideal y hacer campañas de marketing más optimizadas.
 
-4º Permite al cliente contactar con la empresa las 24h: Tener una web con formularios de consulta o con un chatbot permite al cliente realizar consultas con la empresa directamente. Así, las dudas de los clientes potenciales pueden ser resueltas al instante y la probabilidad de generar ventas es mayor.
+4.- Permite al cliente contactar con la empresa las 24h: Tener una web con formularios de consulta o con un chatbot permite al cliente realizar consultas con la empresa directamente. Así, las dudas de los clientes potenciales pueden ser resueltas al instante y la probabilidad de generar ventas es mayor.
 
-5º Posicionar el negocio en buscadores: Una página web permite que el negocio aparezca en los principales motores de búsqueda. Además, entre las herramientas de Google se encuentra Google My Business, que permite crear un perfil para negocios donde poner información que aparecerá en Google Maps. La combinación de estos dos elementos puede ayudar a un negocio a posicionarse mejor y a que los clientes potenciales lo encuentren. BY JCTS
+BY JCTS
 ---------------------------------------------------------------------------------
 
 Actualizado por Omar Cruz M.
