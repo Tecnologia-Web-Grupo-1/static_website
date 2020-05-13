@@ -108,5 +108,7 @@ El progreso también ha tenido lugar en lo relacionado con la administración de s
 
 Esta evolución ha dado lugar a la convergencia de una gran cantidad de tecnologías, herramientas y estilos arquitectónicos para desarrollar sitios web y aplicaciones, te contamos los aspectos más importantes relacionados con ellos, y la manera en la que interactúan entre sí.
 
+Las bases de datos más populares y utilizadas para el desarrollo de aplicaciones web son las bases de datos relacionales. Hay muchas bases de datos relacionales tanto comerciales como de software libre como MySQL, Derby, Oracle, MS SQL Server, PostgreSQL.
+
 
 
