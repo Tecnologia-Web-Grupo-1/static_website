@@ -67,17 +67,9 @@ Se podrían citar numerosas razones por las que es necesario que un negocio tenga
 Actualizado por Omar Cruz M.
 La burbuja de las punto-com se refiere al periodo comprendido entre 1997 y 2000. Durante dicho periodo se produjo un fuerte crecimiento de los valores económicos de las empresas relacionadas con Internet.  Llegando, de este modo, a provocar una fuerte burbuja económica que llevó a la quiebra a una gran cantidad de empresas.
 
+Actualizacion Julio Villacis 19:11
 
+Preuab de funcionamiento
 
-
-
-
-
-
-
-
-
-
-
-
-
+- Veamos que sucede
+- Si no funciona sera de consultar al profesor
