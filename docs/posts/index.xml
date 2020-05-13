@@ -6,23 +6,17 @@
     <description>Recent content in Posts on My New Hugo Site with company Tecnologia Web Grupo 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 10:21:52 -0500</lastBuildDate>
     
 	<atom:link href="http://Tecnologia-Web-Grupo-1.github.io/static_website/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>MI PRIMER POST</title>
+      <title></title>
       <link>http://Tecnologia-Web-Grupo-1.github.io/static_website/posts/my-first-post/</link>
-      <pubDate>Tue, 12 May 2020 10:21:52 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://Tecnologia-Web-Grupo-1.github.io/static_website/posts/my-first-post/</guid>
-      <description>Estructura de la materia sistemas distribuidos
-INTRODUCCIÓN Y COMUNICACIÓN EN LOS SISTEMAS DISTRIBUIDOS SINCRONIZACIÓN Y ADMINISTRACIÓN DE PROCESOS EN LOS SISTEMAS DISTRIBUIDOS ADMINISTRACIóN DE ARCHIVOS Y MEMORIA COMPARTIDA EN LOS SISTEMAS DISTRIBUIDOS FIABILIDAD Y CIFRADO EN LOS SISTEMAS DISTRIBUIDOS
-Trabajo colaborativo de Julio Villacis
-Introduccion y comunicacion en los sitemas distribuidos
-  Objetivos
- Conocer los conceptos principales de los sistemas operativos distribuidos. Entender las comunicaciones fisicas y logicas en un sistema distribuido    Resultados del Aprendizaje</description>
+      <description></description>
     </item>
     
   </channel>
