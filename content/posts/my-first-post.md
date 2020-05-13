@@ -62,7 +62,7 @@ Se podrían citar numerosas razones por las que es necesario que un negocio tenga
 4º Permite al cliente contactar con la empresa las 24h: Tener una web con formularios de consulta o con un chatbot permite al cliente realizar consultas con la empresa directamente. Así, las dudas de los clientes potenciales pueden ser resueltas al instante y la probabilidad de generar ventas es mayor.
 
 5º Posicionar el negocio en buscadores: Una página web permite que el negocio aparezca en los principales motores de búsqueda. Además, entre las herramientas de Google se encuentra Google My Business, que permite crear un perfil para negocios donde poner información que aparecerá en Google Maps. La combinación de estos dos elementos puede ayudar a un negocio a posicionarse mejor y a que los clientes potenciales lo encuentren.
--------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 
 
 
