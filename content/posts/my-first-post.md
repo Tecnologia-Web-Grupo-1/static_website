@@ -26,6 +26,17 @@ Variantes de los Sistemas Distribuidos JVI.
 
 Colaboracion Karen Segura S 12 mayo 2020
 
+Trabajo: Mariella Lindao T.
+
+Coronavirus COVID 19
+
+Los coronavirus son una amplia familia de virus, algunos tienen la capacidad de transmitirse de los animales a las personas. Producen cuadros clínicos que van desde el resfriado común hasta enfermedades más graves, como ocurre con el coronavirus que causó el síndrome respiratorio agudo grave (SARS-CoV) y el coronavirus causante del síndrome respiratorio de Oriente Medio (MERS-CoV).
+
+El nuevo coronavirus se llama SARS-CoV2, la enfermedad se llama Corona Virus Disease 2019=COVID19
+
+Es un nuevo tipo de coronavirus que puede afectar a las personas y se ha detectado por primera vez en diciembre de 2019 en la ciudad de Wuhan, provincia de Hubei, en China. Todavía hay muchas cuestiones que se desconocen en relación a la enfermedad que produce: COVID-19.
+
+
 Nuevo Trbajo de Julio Villacis 13:11
 
 - Como proceder con los problemas generados por el covi-19
