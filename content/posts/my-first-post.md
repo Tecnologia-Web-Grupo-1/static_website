@@ -29,3 +29,12 @@ Nuevo Trbajo de Julio Villacis 13:11
 3. No lavar las frutas con cloro
 4. No usar trajes plasticos
 
+Colaboracion del 13 de mayo 2020 11:09 Julio Villacis
+
+- Reunión con Isabel Naranjo por un problema con el static_website
+- Reunión con Cisco sobre avance de proyectos
+- Cancelada la reunión con el cliente
+
+1. Conferencia telefonica cancelda
+2. Conferencia telefonica coordinación de movilización
+
