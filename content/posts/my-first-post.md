@@ -64,6 +64,8 @@ Se podrían citar numerosas razones por las que es necesario que un negocio tenga
 5º Posicionar el negocio en buscadores: Una página web permite que el negocio aparezca en los principales motores de búsqueda. Además, entre las herramientas de Google se encuentra Google My Business, que permite crear un perfil para negocios donde poner información que aparecerá en Google Maps. La combinación de estos dos elementos puede ayudar a un negocio a posicionarse mejor y a que los clientes potenciales lo encuentren.
 -------------------------------------------------------------------------------------------------------------------------------
 
+Actualizado por Omar Cruz M.
+La burbuja de las punto-com se refiere al periodo comprendido entre 1997 y 2000. Durante dicho periodo se produjo un fuerte crecimiento de los valores económicos de las empresas relacionadas con Internet.  Llegando, de este modo, a provocar una fuerte burbuja económica que llevó a la quiebra a una gran cantidad de empresas.
 
 
 
