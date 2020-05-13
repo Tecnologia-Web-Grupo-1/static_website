@@ -86,12 +86,6 @@ La burbuja de las punto-com se refiere al periodo comprendido entre 1997 y 2000.
 
 Actualizacion Julio Villacis 19:11
 
-Preuab de funcionamiento
-
-- Veamos que sucede
-- Si no funciona sera de consultar al profesor
->>>>>>> c64ab7a4f72b75541e2c1fcca90c162e1d5d28d6
-
 ----------------------------------------------------------------
 Trabajo realizado por : Mariella L
 
@@ -106,7 +100,8 @@ Es un nuevo tipo de coronavirus que puede afectar a las personas y se ha detecta
 --------------------------------------------------------------
 Colaboracion Linda Castillo
 
- 
+Conceptos básicos sobre tecnologías de desarrollo web
+
 Los modelos y tecnologías de desarrollo web han evolucionado mucho en la última década, existen multitud de aplicaciones, frameworks, librerías, arquitecturas y sistemas de publicación en diferentes versiones que a su vez reciben cambios o mejoran con el tiempo.
 
 El progreso también ha tenido lugar en lo relacionado con la administración de sistemas, servicios de alojamiento, técnicas de escalabilidad, monitorización y gestión de centros de procesos de datos.
