@@ -102,3 +102,16 @@ Los coronavirus son una amplia familia de virus, algunos tienen la capacidad de 
 El nuevo coronavirus se llama SARS-CoV2, la enfermedad se llama Corona Virus Disease 2019=COVID19
 
 Es un nuevo tipo de coronavirus que puede afectar a las personas y se ha detectado por primera vez en diciembre de 2019 en la ciudad de Wuhan, provincia de Hubei, en China. Todavía hay muchas cuestiones que se desconocen en relación a la enfermedad que produce: COVID-19.
+
+--------------------------------------------------------------
+Colaboracion Linda Castillo
+
+ 
+Los modelos y tecnologías de desarrollo web han evolucionado mucho en la última década, existen multitud de aplicaciones, frameworks, librerías, arquitecturas y sistemas de publicación en diferentes versiones que a su vez reciben cambios o mejoran con el tiempo.
+
+El progreso también ha tenido lugar en lo relacionado con la administración de sistemas, servicios de alojamiento, técnicas de escalabilidad, monitorización y gestión de centros de procesos de datos.
+
+Esta evolución ha dado lugar a la convergencia de una gran cantidad de tecnologías, herramientas y estilos arquitectónicos para desarrollar sitios web y aplicaciones, te contamos los aspectos más importantes relacionados con ellos, y la manera en la que interactúan entre sí.
+
+
+
